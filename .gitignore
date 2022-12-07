@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Booking
+/Modules/Booking/Booking.Application/bin/Debug/net6.0
+/Modules/Booking/Booking.Application/obj
+/Modules/Booking/Booking.Domain/bin/Debug/net6.0
+/Modules/Booking/Booking.Domain/obj
+/Modules/Booking/Booking.Infrastructure/bin/Debug/net6.0
+/Modules/Booking/Booking.Infrastructure/obj
+/Modules/Booking/Boonking.UnitTest/bin/Debug/net6.0
+/Modules/Booking/Boonking.UnitTest/obj/Debug/net6.0
+/Modules/Booking/Boonking.UnitTest/obj
